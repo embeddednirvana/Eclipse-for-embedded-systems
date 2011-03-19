@@ -1,0 +1,3 @@
+A simple eclipse plugin which aims to 
+1. Create a new project wizard to create projects among a list of target architectures which are auto configured with all details about the cross compiler i.e.gcc, gdb, libraries etc.
+2. Remote debugging using gdb and gdbserver. 
