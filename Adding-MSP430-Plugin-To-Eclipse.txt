@@ -1,0 +1,5 @@
+DATE : 02-OCT-2011
+
+TASK : Adding MSP430 plugin to Eclipse C/C++ IDE
+
+STATUS : No progress
