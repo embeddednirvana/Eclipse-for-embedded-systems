@@ -1,0 +1,22 @@
+DATE : 01-OCT-2011
+
+TASK : Installation of the GNU toolchain for MSP430
+
+HOST : Fedora 14
+
+STATUS : Enviornment up and running on fedora 14. 
+
+LINKS : http://sourceforge.net/apps/mediawiki/mspgcc/index.php?title=Linux_installation
+
+STEPS : 
+
+Fedora
+
+su -c "yum install msp430-libc mspdebug"
+
+GDB isn't yet in the repositories, but you can get it here. You can install it by running:
+su -c "rpm -Uvh http://users.ecs.soton.ac.uk/rds/rpm/mspgcc/msp430-gdb-6.8-1.20090621cvs.fc14.i686.rpm"
+
+That's all you'll need to do.
+
+cdk4msp (http://cdk4msp.sourceforge.net/) also has the complete toolchain, but it's outdated.
