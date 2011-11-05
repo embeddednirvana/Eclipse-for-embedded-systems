@@ -1,0 +1,14 @@
+START DATE : 05-NOV-2011
+
+TASK : GDB MI Integrtion With Eclipse
+
+HOST : Fedora (If you working on other please add same)
+
+STATUS : 
+
+
+As of 05-NOV-2011:
+       1) Debugger Services Framework (DSF) is a good option.
+       2) Targeted at embeeded systems.
+       3) Starting with configuration of environment.
+
